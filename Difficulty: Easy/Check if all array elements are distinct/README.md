@@ -1,0 +1,9 @@
+<h2><a href="https://www.geeksforgeeks.org/problems/professor-and-parties2000/1">Check if all array elements are distinct</a></h2><h3>Difficulty Level : Difficulty: Easy</h3><hr><div class="problems_problem_content__Xm_eO" style="--text-color: var(--problem-text-color); --darkreader-text--text-color: var(--darkreader-text--problem-text-color); --darkreader-border--text-color: var(--darkreader-border--problem-text-color);"><p><span style="font-size: 18.6667px;">Given an array <strong>arr[]</strong> of size <strong>n</strong>, check whether all elements in the array are distinct or not. Return true if all elements are distinct, otherwise return false.</span></p>
+<p><span style="font-size: 18px;"><strong>Examples:</strong></span></p>
+<pre><span style="font-size: 18px;"><strong>Input:</strong> arr[] = [1, 2, 3, 4, 7]
+<strong>Output: </strong>true
+<strong>Explanation: </strong></span><span style="font-size: 18px;">All elements are unique, so no duplicates exist.</span></pre>
+<pre><span style="font-size: 18px;"><strong>Input: </strong>arr[] = [1, 3, 2, 4, 5, 1]
+<strong>Output: </strong>false
+<strong>Explanation: </strong></span><span style="font-size: 18px;">Element 1 appears more than once, so all elements are not distinct.</span></pre>
+<p><span style="font-size: 18px;"><strong>Constraints:</strong><br>1 ≤ arr.size() ≤ 10<sup>6</sup><br>1 ≤ <span style="font-size: 14pt;">arr</span></span><span style="font-size: 18px;"><span style="font-size: 15px;"><span style="font-size: 14pt;">[i]</span> </span><span style="font-size: 18px;">≤ 10</span><sup style="font-size: 18px;">9</sup></span></p></div><p><span style=font-size:18px><strong>Company Tags : </strong><br><code>Amazon</code>&nbsp;<br><p><span style=font-size:18px><strong>Topic Tags : </strong><br><code>Arrays</code>&nbsp;
